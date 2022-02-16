@@ -4,10 +4,16 @@
 
 ## Courses
  - [Data Cleaning](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Data%20Cleaning/Kaggle%20Data%20Cleaning.png)
- - [Data Manipulation](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Data%20Manipulation/Pandas/Kaggle%20Pandas.png)
- - [Data Visualization](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Visualization) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Data%20Visualization/Kaggle%20Data%20Visualization.png)
- - [Feature Engineering](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Feature%20Engineering/Kaggle%20Feature%20Engineering.png)
- - Machine Learning 
+
+- [Data Manipulation](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Data%20Manipulation/Pandas/Kaggle%20Pandas.png)
+
+- [Data Visualization](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Visualization) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Data%20Visualization/Kaggle%20Data%20Visualization.png)
+
+- [Feature Engineering](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Feature%20Engineering/Kaggle%20Feature%20Engineering.png)
+
+- Machine Learning 
     1. [Intro to Machine Learning](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning/Kaggle%20Intro%20to%20Machine%20Learning.png) 
+
     2. [Intermediate Machine Learning](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning/Kaggle%20Intermediate%20Machine%20Learning.png)
+ 
  - [Machine Learning Explainability](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20Explainability) | [Completion](https://github.com/Amey-Thakur/KAGGLE/blob/main/Machine%20Learning%20Explainability/Kaggle%20Machine%20Learning%20Explainability.png)
