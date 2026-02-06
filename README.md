@@ -5,8 +5,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-blueviolet)](https://github.com/Amey-Thakur/KAGGLE)
-  [![Curated by Amey Thakur and Mega Satish](https://img.shields.io/badge/Curated%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/KAGGLE)
+  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-blueviolet)](https://github.com/Amey-Thakur/KAGGLE-COURSES)
+  [![Curated by Amey Thakur and Mega Satish](https://img.shields.io/badge/Curated%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/KAGGLE-COURSES)
 
   Kaggle Courses: A comprehensive archive of completed Data Science, Machine Learning, and Data Manipulation courses. This repository documents mastery of the Python ecosystem through structured Kaggle exercises and certifications.
 
@@ -185,8 +185,8 @@ KAGGLE/
 #### Step 1: Clone the Repository
 Open your terminal and clone the repository:
 ```bash
-git clone https://github.com/Amey-Thakur/KAGGLE.git
-cd KAGGLE
+git clone https://github.com/Amey-Thakur/KAGGLE-COURSES.git
+cd KAGGLE-COURSES
 ```
 
 #### Step 2: Library Synchronization

@@ -19,7 +19,7 @@ In accordance with established academic and professional standards for security 
 To document a security concern, communication is facilitated with the project curators:
   - **Curator**: [Amey Thakur](https://github.com/Amey-Thakur)
   - **Collaborator**: [Mega Satish](https://github.com/msatmod)
-  - **Method**: Reports are submitted via the repository's [GitHub Issues](https://github.com/Amey-Thakur/KAGGLE/issues) interface to formally record security-related findings.
+  - **Method**: Reports are submitted via the repository's [GitHub Issues](https://github.com/Amey-Thakur/KAGGLE-COURSES/issues) interface to formally record security-related findings.
 
 Submissions include:
   1. A precise and technically accurate description of the identified issue.
