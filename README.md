@@ -176,31 +176,31 @@ KAGGLE/
   <i>Certified completion of comprehensive Data Science curriculum through Kaggle Learn.</i>
   <br><br>
   <a href="Certificates/Kaggle%20Pandas.png">
-    <img src="Certificates/Kaggle%20Pandas.png" width="48%" alt="Pandas Certificate">
+    <img src="Certificates/Kaggle%20Pandas.png" width="100%" alt="Pandas Certificate">
   </a>
-  &nbsp;
+  <br><br>
   <a href="Certificates/Kaggle%20Data%20Cleaning.png">
-    <img src="Certificates/Kaggle%20Data%20Cleaning.png" width="48%" alt="Data Cleaning Certificate">
+    <img src="Certificates/Kaggle%20Data%20Cleaning.png" width="100%" alt="Data Cleaning Certificate">
   </a>
   <br><br>
   <a href="Certificates/Kaggle%20Data%20Visualization.png">
-    <img src="Certificates/Kaggle%20Data%20Visualization.png" width="48%" alt="Data Visualization Certificate">
+    <img src="Certificates/Kaggle%20Data%20Visualization.png" width="100%" alt="Data Visualization Certificate">
   </a>
-  &nbsp;
+  <br><br>
   <a href="Certificates/Kaggle%20Intro%20to%20Machine%20Learning.png">
-    <img src="Certificates/Kaggle%20Intro%20to%20Machine%20Learning.png" width="48%" alt="Intro to ML Certificate">
+    <img src="Certificates/Kaggle%20Intro%20to%20Machine%20Learning.png" width="100%" alt="Intro to ML Certificate">
   </a>
   <br><br>
   <a href="Certificates/Kaggle%20Feature%20Engineering.png">
-    <img src="Certificates/Kaggle%20Feature%20Engineering.png" width="48%" alt="Feature Engineering Certificate">
+    <img src="Certificates/Kaggle%20Feature%20Engineering.png" width="100%" alt="Feature Engineering Certificate">
   </a>
-  &nbsp;
+  <br><br>
   <a href="Certificates/Kaggle%20Intermediate%20Machine%20Learning.png">
-    <img src="Certificates/Kaggle%20Intermediate%20Machine%20Learning.png" width="48%" alt="Intermediate ML Certificate">
+    <img src="Certificates/Kaggle%20Intermediate%20Machine%20Learning.png" width="100%" alt="Intermediate ML Certificate">
   </a>
   <br><br>
   <a href="Certificates/Kaggle%20Machine%20Learning%20Explainability.png">
-    <img src="Certificates/Kaggle%20Machine%20Learning%20Explainability.png" width="48%" alt="ML Explainability Certificate">
+    <img src="Certificates/Kaggle%20Machine%20Learning%20Explainability.png" width="100%" alt="ML Explainability Certificate">
   </a>
   <br><br>
 </div>
