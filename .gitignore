@@ -23,7 +23,24 @@ share/python-wheels/
 MANIFEST
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Data Science / ML
+*.h5
+*.pkl
+*.joblib
+*.model
+*.weights
+*.ckpt
+*.tfrecord
+
+# Large Datasets (uncomment if needed)
+# *.csv
+# *.parquet
+# *.feather
+
+# Kaggle API
+kaggle.json
 
 # Environments
 .env
@@ -38,12 +55,14 @@ venv.bak/
 Thumbs.db
 Desktop.ini
 .DS_Store
+._*
 
 # IDEs and Editors
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # Temporary Files
 *.tmp
@@ -51,3 +70,4 @@ Desktop.ini
 *.sav
 *.old
 ~*
+*.log

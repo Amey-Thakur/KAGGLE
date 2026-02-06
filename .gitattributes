@@ -1,4 +1,4 @@
-# Standardized Git Attributes for Scholarly Archiving
+# Standardized Git Attributes for Kaggle & Data Science Archiving
 
 # Handle line endings automatically for files detected as text
 # and perform LF normalization on checkin.
@@ -10,6 +10,9 @@
 *.md text
 *.txt text
 *.csv text
+*.json text
+*.yaml text
+*.yml text
 
 # Mark binary files
 *.jpg binary
@@ -17,6 +20,10 @@
 *.gif binary
 *.ico binary
 *.pdf binary
+*.h5 binary
+*.pkl binary
+*.joblib binary
+*.parquet binary
 
 # Academic/Scholarly classification
 *.md linguist-documentation
