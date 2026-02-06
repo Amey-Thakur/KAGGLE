@@ -22,6 +22,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Created as a part of the Internship @ Technocolabs Softwares 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Created as a part of the Internship @ Technocolabs Softwares 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p> 
+<p align="center"><a href="https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING"> ✌🏻 Back To Repository ✌🏻</a></p> 
