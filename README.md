@@ -263,12 +263,6 @@ Special thanks to **Technocolabs Softwares** for facilitating this internship ex
 
   ---
 
-  👉🏻 **Created as a part of the Internship @ Technocolabs Softwares** 👈🏻
-
-  [✌🏻 Back To Repository ✌🏻](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)
-
-  ---
-
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
