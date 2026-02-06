@@ -148,11 +148,11 @@ KAGGLE/
 │   └── Machine Learning Explainability/  # SHAP, Permutation
 │
 ├── Certificates/                    # Course Completion Credentials
-│   ├── Kaggle Data Cleaning.png
 │   ├── Kaggle Pandas.png
+│   ├── Kaggle Data Cleaning.png
 │   ├── Kaggle Data Visualization.png
-│   ├── Kaggle Feature Engineering.png
 │   ├── Kaggle Intro to Machine Learning.png
+│   ├── Kaggle Feature Engineering.png
 │   ├── Kaggle Intermediate Machine Learning.png
 │   └── Kaggle Machine Learning Explainability.png
 │
@@ -175,24 +175,24 @@ KAGGLE/
   <br>
   <i>Certified completion of comprehensive Data Science curriculum through Kaggle Learn.</i>
   <br><br>
-  <a href="Certificates/Kaggle%20Data%20Cleaning.png">
-    <img src="Certificates/Kaggle%20Data%20Cleaning.png" width="48%" alt="Data Cleaning Certificate">
-  </a>
-  &nbsp;
   <a href="Certificates/Kaggle%20Pandas.png">
     <img src="Certificates/Kaggle%20Pandas.png" width="48%" alt="Pandas Certificate">
+  </a>
+  &nbsp;
+  <a href="Certificates/Kaggle%20Data%20Cleaning.png">
+    <img src="Certificates/Kaggle%20Data%20Cleaning.png" width="48%" alt="Data Cleaning Certificate">
   </a>
   <br><br>
   <a href="Certificates/Kaggle%20Data%20Visualization.png">
     <img src="Certificates/Kaggle%20Data%20Visualization.png" width="48%" alt="Data Visualization Certificate">
   </a>
   &nbsp;
-  <a href="Certificates/Kaggle%20Feature%20Engineering.png">
-    <img src="Certificates/Kaggle%20Feature%20Engineering.png" width="48%" alt="Feature Engineering Certificate">
-  </a>
-  <br><br>
   <a href="Certificates/Kaggle%20Intro%20to%20Machine%20Learning.png">
     <img src="Certificates/Kaggle%20Intro%20to%20Machine%20Learning.png" width="48%" alt="Intro to ML Certificate">
+  </a>
+  <br><br>
+  <a href="Certificates/Kaggle%20Feature%20Engineering.png">
+    <img src="Certificates/Kaggle%20Feature%20Engineering.png" width="48%" alt="Feature Engineering Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Kaggle%20Intermediate%20Machine%20Learning.png">
