@@ -92,14 +92,6 @@ The curriculum is governed by strict **computational data science principles**:
 ```python
 KAGGLE/
 │
-├── Source Code/                     # Core Learning Modules
-│   ├── Data Cleaning/               # Missing Values, Dates, Encodings
-│   ├── Data Manipulation/           # Pandas Mastery
-│   ├── Data Visualization/          # Seaborn, Matplotlib
-│   ├── Feature Engineering/         # PCA, Clustering, Encoding
-│   ├── Machine Learning.../         # Intro & Intermediate ML
-│   └── Machine Learning Explainability/  # SHAP, Permutation
-│
 ├── Certificates/                    # Course Completion Credentials
 │   ├── Kaggle Data Cleaning.png
 │   ├── Kaggle Pandas.png
@@ -115,6 +107,14 @@ KAGGLE/
 ├── Mega/                            # Attribution Assets
 │   ├── Filly.jpg                    # Companion (Filly)
 │   └── Mega.png                     # Profile Image (Mega Satish)
+│
+├── Source Code/                     # Core Learning Modules
+│   ├── Data Cleaning/               # Missing Values, Dates, Encodings
+│   ├── Data Manipulation/           # Pandas Mastery
+│   ├── Data Visualization/          # Seaborn, Matplotlib
+│   ├── Feature Engineering/         # PCA, Clustering, Encoding
+│   ├── Machine Learning.../         # Intro & Intermediate ML
+│   └── Machine Learning Explainability/  # SHAP, Permutation
 │
 ├── .gitattributes                   # Git LFS/Attribute Configuration
 ├── .gitignore                       # Project Ignore Patterns
