@@ -259,7 +259,7 @@ Special thanks to **Technocolabs Softwares** for facilitating this internship ex
 
   <br>
 
-  🏆 **[Kaggle](https://github.com/Amey-Thakur/KAGGLE)**
+  🏆 **[Kaggle](https://www.kaggle.com/ameythakur20)**
 
   ---
 
