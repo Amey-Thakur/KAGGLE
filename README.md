@@ -92,15 +92,6 @@ The curriculum is governed by strict **computational data science principles**:
 ```python
 KAGGLE/
 │
-├── Certificates/                    # Course Completion Credentials
-│   ├── Kaggle Data Cleaning.png
-│   ├── Kaggle Pandas.png
-│   ├── Kaggle Data Visualization.png
-│   ├── Kaggle Feature Engineering.png
-│   ├── Kaggle Intro to Machine Learning.png
-│   ├── Kaggle Intermediate Machine Learning.png
-│   └── Kaggle Machine Learning Explainability.png
-│
 ├── docs/                            # Documentation Layer
 │   └── SPECIFICATION.md             # Technical Architecture
 │
@@ -115,6 +106,15 @@ KAGGLE/
 │   ├── Feature Engineering/         # PCA, Clustering, Encoding
 │   ├── Machine Learning.../         # Intro & Intermediate ML
 │   └── Machine Learning Explainability/  # SHAP, Permutation
+│
+├── Certificates/                    # Course Completion Credentials
+│   ├── Kaggle Data Cleaning.png
+│   ├── Kaggle Pandas.png
+│   ├── Kaggle Data Visualization.png
+│   ├── Kaggle Feature Engineering.png
+│   ├── Kaggle Intro to Machine Learning.png
+│   ├── Kaggle Intermediate Machine Learning.png
+│   └── Kaggle Machine Learning Explainability.png
 │
 ├── .gitattributes                   # Git LFS/Attribute Configuration
 ├── .gitignore                       # Project Ignore Patterns
