@@ -1,0 +1,41 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "KAGGLE",
+    "description": "A comprehensive repository documenting the completion of Kaggle courses in Data Science, Machine Learning, and Data Manipulation. This project serves as an educational archive for mastering the Python ecosystem through hands-on Kaggle exercises.",
+    "identifier": "KAGGLE",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "Python",
+        "Jupyter Notebook",
+        "Markdown"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557"
+        }
+    ],
+    "dateReleased": "2021-07-23",
+    "codeRepository": "https://github.com/Amey-Thakur/KAGGLE",
+    "developmentStatus": "complete",
+    "applicationCategory": "Education / Data Science",
+    "keywords": [
+        "Kaggle",
+        "Data Science",
+        "Machine Learning",
+        "Data Cleaning",
+        "Data Visualization",
+        "Feature Engineering",
+        "Pandas",
+        "Python"
+    ]
+}
