@@ -45,7 +45,7 @@
 <a name="overview"></a>
 ## Overview
 
-**Kaggle** features a comprehensive archive of completed **Kaggle Courses** in Data Science, Machine Learning, and Data Manipulation. Curated by [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod), this project documents a disciplined progression through 7 official Kaggle courses. We successfully navigated the course material, from data cleaning fundamentals to machine learning explainability, earning recognized certifications as a testament to this scholarly effort.
+**Kaggle** is a repository created as part of the **Internship at Technocolabs Softwares**. Curated by [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod), this project documents our journey of learning and acquiring essential Data Science and Machine Learning skills through 7 official Kaggle courses. We successfully completed all course material, from data cleaning fundamentals to machine learning explainability, earning recognized certifications as a record of our achievement.
 
 The project demonstrates a disciplined approach to upskilling in Data Science, leveraging the **Python Ecosystem** (Pandas, Numpy, Scikit-Learn, XGBoost) to solve real-world analytical problems.
 
@@ -239,7 +239,7 @@ Copyright © 2021 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
-**Kaggle** serves as a comprehensive technical archive for a structured series of **Kaggle Courses** focused on **Data Science**, **Machine Learning**, and **Data Manipulation**. This repository bridges foundational data wrangling principles with applied analytics, documenting the complete technical lifecycle from data cleaning and feature engineering to model explainability. It provides a verifiable and reproducible roadmap for mastering the modern Python ecosystem through disciplined, course-by-course milestones.
+**Kaggle** was created as part of the **Internship at Technocolabs Softwares**. Together with [**Mega Satish**](https://github.com/msatmod), we embarked on a journey to learn and acquire essential **Data Science** and **Machine Learning** skills through structured Kaggle courses. This repository serves as a record of our learning experience and the certifications we earned along the way. It documents our progression from data cleaning and manipulation fundamentals to advanced feature engineering and model explainability.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
