@@ -310,5 +310,3 @@ Special thanks to **Technocolabs Softwares** for facilitating this internship ex
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
-
-
