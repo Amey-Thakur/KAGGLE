@@ -241,6 +241,14 @@ Navigate to the `Source Code` directory and launch Jupyter:
 jupyter notebook
 ```
 
+> [!TIP]
+> ### Kaggle Mastery | Internship Portfolio Hub
+>
+> Experience the complete **Kaggle Learning Ecosystem** directly through this centralized **Internship Archive**. This hub serves as a scholarly gateway that orchestrates the mastery of seven core data science disciplines, providing a visual demonstration of skill evolution, credential validation, and featured project integration across the modern analytical landscape.
+>
+> [Explore Technocolabs Internship Specifications](./docs/SPECIFICATION.md)
+
+
 ---
 
 <!-- USAGE GUIDELINES -->
