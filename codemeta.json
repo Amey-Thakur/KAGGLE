@@ -24,8 +24,10 @@
             "id": "https://orcid.org/0000-0002-1844-9557"
         }
     ],
+    "dateCreated": "2021-07-23",
     "dateReleased": "2021-07-23",
     "codeRepository": "https://github.com/Amey-Thakur/KAGGLE-COURSES",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "applicationCategory": "Education / Data Science",
     "keywords": [
@@ -35,7 +37,39 @@
         "Data Cleaning",
         "Data Visualization",
         "Feature Engineering",
-        "Pandas",
-        "Python"
-    ]
+        "Python",
+        "Certificates",
+        "Intermediate Machine Learning",
+        "Intro To ML",
+        "Jupyter Notebook",
+        "Kaggle Courses",
+        "Machine Learning Explainability",
+        "pandas",
+        "Scikit Learn",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "Computer Engineering",
+        "B.E. Computer Engineering",
+        "Python Ecosystem",
+        "Data Wrangling",
+        "Visual Analytics",
+        "Kaggle Course Completion",
+        "Runtime Environment Guard",
+        "Kaggle Learning Ecosystem",
+        "Internship Archive",
+        "For Students",
+        "For Educators",
+        "For Researchers",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://www.kaggle.com/ameythakur20"
 }
